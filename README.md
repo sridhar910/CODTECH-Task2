@@ -1,7 +1,5 @@
 # CODTECH-Task2
 
-Creating a README file for a credit card fraud detection project is important to provide clear instructions and information about the project to anyone who wants to understand or use it. Below is a template for a README file tailored for a credit card fraud detection project:
-
 ---
 
 # Credit Card Fraud Detection
