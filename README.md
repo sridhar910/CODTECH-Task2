@@ -35,15 +35,7 @@ To train and evaluate the model, follow these steps:
    python fraud_detection.py
    ```
 
-## Model Training
-The model is trained using machine learning algorithms such as Random Forest, Logistic Regression, and XGBoost. The performance of each model is evaluated based on metrics such as precision, recall, and F1-score.
 
-
-
-
-
-
----
 
 
 
